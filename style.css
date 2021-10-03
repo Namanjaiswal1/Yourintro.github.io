@@ -1,0 +1,31 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.backimg{
+	width: 100%;
+	height: 100vh;
+	background-color:black;
+	background-image: url("Naman1.png");
+    background-repeat: no-repeat;
+    /*background-size: 200% 200%;*/
+   background-attachment: fixed;
+}
+#input{
+    width: 500px;
+    height: 300px;
+    background-color: gold;
+    overflow: scroll;
+    cursor: text;
+
+}
+.backimg1{
+        width: 100%;
+    height: 100vh;
+    background-color:black;
+    background-image: url("Naman3.png");
+    background-repeat: no-repeat;
+    /*background-size: 200% 200%;*/
+   background-attachment: fixed;
+
+}
